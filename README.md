@@ -12,9 +12,9 @@
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning **Generative AI, Machine Learning, Data Analytics and Neo4j**
 - 👯 I’m looking to collaborate on **[TensorFlow](https://github.com/tensorflow/tensorflow)**
-<!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about **Node.js, Cloud, UX, Git, JavaScript, Python, React, Data Science, Mongodb**
 - 📫 How to reach me: **gabrielsolanodesixto@gmail.com**
+<!-- 🤔 I’m looking for help with ...-->
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 <br>
