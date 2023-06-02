@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel 👋🏼 👨🏽‍💻
+# **Hi, I'm Gabriel 👋🏼 👨🏽‍💻**
 
 
 **GabrielDeSixto/GabrielDeSixto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
