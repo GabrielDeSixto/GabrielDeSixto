@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center" >Hi👋🏼, I'm Gabriel Solano 👨🏽‍💻 </h1>
+  <h1 align="center" >Hi👋🏼, I'm Gabriel Solano De Sixto👨🏽‍💻 </h1>
   <br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
   <br>
