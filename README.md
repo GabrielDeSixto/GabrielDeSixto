@@ -1,8 +1,9 @@
  # **Hi👋🏼, I'm Gabriel Solano De Sixto👨🏽‍💻** 
+ [imgprincipal](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <div align="center">
  
   <br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+  <img src="" width="300px">
   <br>
   <h3>I'm a passionate developer from México. I like learning and teaching what I learn  </h3>
 </div>
