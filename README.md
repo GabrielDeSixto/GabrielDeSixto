@@ -1,6 +1,7 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
  # **Hi👋🏼, I'm Gabriel Solano De Sixto👨🏽‍💻** 
 
-  ![imgprincipal](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  ![imgprincipal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimages%2Fwords_phrases%2Fwelcome&psig=AOvVaw1rfj3yitCQazkazNPfSZz3&ust=1696206331185000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD0hZDL04EDFQAAAAAdAAAAABAE)
 
 ### **I'm a passionate developer from México. I like learning and teaching what I learn**
 ------
@@ -16,8 +17,26 @@
 - ⚡ Fun fact: ...-->
 
 ## 🔎 Connect with me:
+<div align="center">
+  <!-- Work Links -->
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://hefesto.uea.edu.br/gitlab/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andreinaholiveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- YT Links -->
+  <a href="https://www.twitch.tv/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@AndreinaOliveira" target="_blank"><img src="https://img.shields.io/badge/@AndreinaOliveira-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <br><a href="https://www.youtube.com/@QAutodidata" target="_blank"><img src="https://img.shields.io/badge/@QAutodidata-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <!-- Social Links -->
+  <a href="https://instagram.com/prinsycho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <!-- OTH Links -->
+  <a href="https://trustinthesky.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white"></a>
+  <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
+  <a href="https://steamcommunity.com/id/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+</div>
 
-<a href="https://www.linkedin.com/in/gabriel-solano-de-sixto-a83087211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.com/GabrielDeSixto" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a> 
 
 ## 🛠️ Languages and Tools:
@@ -155,17 +174,11 @@
 
 ------
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielDeSixto&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeSixto&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeSixto&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=GabrielDeSixto&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)      
 
 ------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeSixto&show_icons=true&theme=radical)
 ------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeSixto&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
----  
-  
-
----
 
 <a href="https://app.daily.dev/gabrielsolanodesixto"><img src="https://api.daily.dev/devcards/3f16a7177a964f7eba7e259d99abd225.png?r=xar" width="400" alt="Gabriel Solano De Sixto's Dev Card"/></a>
