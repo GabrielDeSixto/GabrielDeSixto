@@ -1,7 +1,12 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
- # **Hi👋🏼, I'm Gabriel Solano De Sixto👨🏽‍💻** 
+<img align="right" src="https://komarev.com/ghpvc/?username=GabrielDeSixto&color=green"><br>
+ 
+ <h1 align="center" > Hi👋🏼, I'm Gabriel Solano De Sixto👨🏽‍💻 </h1>
 
-  ![imgprincipal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimages%2Fwords_phrases%2Fwelcome&psig=AOvVaw1rfj3yitCQazkazNPfSZz3&ust=1696206331185000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD0hZDL04EDFQAAAAAdAAAAABAE)
+<div align="center" >
+ <a  href="https://github.com/GabrielDeSixto">
+  <img align="center" src="welcome-poster.jpg" width="500px" length="500px" >
+ </a>
+</div>
 
 ### **I'm a passionate developer from México. I like learning and teaching what I learn**
 ------
@@ -19,25 +24,19 @@
 ## 🔎 Connect with me:
 <div align="center">
   <!-- Work Links -->
-  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://hefesto.uea.edu.br/gitlab/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andreinaholiveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/GabrielDeSixto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-solano-de-sixto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielsolanodesixto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- YT Links -->
-  <a href="https://www.twitch.tv/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@AndreinaOliveira" target="_blank"><img src="https://img.shields.io/badge/@AndreinaOliveira-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <br><a href="https://www.youtube.com/@QAutodidata" target="_blank"><img src="https://img.shields.io/badge/@QAutodidata-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.kaggle.com/gabrielsolanodsixto" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <!-- Social Links -->
-  <a href="https://instagram.com/prinsycho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabriel_de_sixto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/profile.php?id=100069997478418" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+
   <!-- OTH Links -->
-  <a href="https://trustinthesky.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white"></a>
-  <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
-  <a href="https://steamcommunity.com/id/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/GabrielDeSixto" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a> 
+------
 
 ## 🛠️ Languages and Tools:
 
