@@ -178,7 +178,7 @@
 
 ------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeSixto&show_icons=true&theme=radical)
+<a href="https://app.daily.dev/gabrielsolanodesixto"><img src="https://api.daily.dev/devcards/3f16a7177a964f7eba7e259d99abd225.png?r=xar" width="400" alt="Gabriel Solano De Sixto's Dev Card"/></a> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeSixto&show_icons=true&theme=radical) 
 ------
 
-<a href="https://app.daily.dev/gabrielsolanodesixto"><img src="https://api.daily.dev/devcards/3f16a7177a964f7eba7e259d99abd225.png?r=xar" width="400" alt="Gabriel Solano De Sixto's Dev Card"/></a>
+
