@@ -8,7 +8,7 @@
  </a>
 </div>
 
-<h3 align="center"> I'm a passionate developer from México. </br>
+<h3 align="center"> I am a passionate developer and Data Scientist. </br>
 My favorite phrase is: "Nothing is impossible, the same word says it: (im) possible. Audrey Hepburn."</h3>
 
 ------
@@ -16,10 +16,14 @@ My favorite phrase is: "Nothing is impossible, the same word says it: (im) possi
 ## 💻 About me:
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning **Generative AI, Machine Learning, Data Analytics and Neo4j**
+  
 - 👯 I’m looking to collaborate on **[TensorFlow](https://github.com/tensorflow/tensorflow)**
+  
 - 💬 Ask me about **Node.js, Cloud, UX, Git, JavaScript, Python, React, Data Science, Mongodb**
 - 📫 How to reach me: **gabrielsolanodesixto@gmail.com**
+  
 - ⚡ Fun fact: **I like to draw, play the guitar and learn new languages**
+  
 <!-- 🤔 I’m looking for help with ...-->
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
@@ -177,10 +181,14 @@ My favorite phrase is: "Nothing is impossible, the same word says it: (im) possi
 ------
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeSixto&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=GabrielDeSixto&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)      
+------
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GabrielDeSixto" alt="GabrielDeSixto" /></a> </p>
 
 ------
 
-<a href="https://app.daily.dev/gabrielsolanodesixto"><img src="https://api.daily.dev/devcards/3f16a7177a964f7eba7e259d99abd225.png?r=xar" width="400" alt="Gabriel Solano De Sixto's Dev Card"/></a> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeSixto&show_icons=true&theme=radical) 
+
+<a href="https://app.daily.dev/gabrielsolanodesixto"><img src="https://api.daily.dev/devcards/3f16a7177a964f7eba7e259d99abd225.png?r=xar" width="300" alt="Gabriel Solano De Sixto's Dev Card"/></a> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeSixto&show_icons=true&theme=radical) 
 ------
 
 
