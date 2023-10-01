@@ -8,7 +8,9 @@
  </a>
 </div>
 
-### **I'm a passionate developer from México. I like learning and teaching what I learn**
+<h3 align="center"> I'm a passionate developer from México. </br>
+My favorite phrase is: "Nothing is impossible, the same word says it: (im) possible. Audrey Hepburn."</h3>
+
 ------
 
 ## 💻 About me:
@@ -17,6 +19,7 @@
 - 👯 I’m looking to collaborate on **[TensorFlow](https://github.com/tensorflow/tensorflow)**
 - 💬 Ask me about **Node.js, Cloud, UX, Git, JavaScript, Python, React, Data Science, Mongodb**
 - 📫 How to reach me: **gabrielsolanodesixto@gmail.com**
+- ⚡ Fun fact: **I like to draw, play the guitar and learn new languages**
 <!-- 🤔 I’m looking for help with ...-->
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
