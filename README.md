@@ -15,7 +15,7 @@ My favorite phrase is: "Nothing is impossible, the same word says it: (im) possi
 
 ## 💻 About me:
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning **Generative AI, Machine Learning, Data Analytics and Neo4j**
+- 🌱 I’m currently learning **Generative AI, Machine Learning, Data Analytics*
   
 - 👯 I’m looking to collaborate on **[TensorFlow](https://github.com/tensorflow/tensorflow)**
   
