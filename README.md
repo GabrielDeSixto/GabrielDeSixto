@@ -118,15 +118,10 @@ My favorite phrase is: "Nothing is impossible, the same word says it: (im) possi
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-</a>
+
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>   
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
@@ -143,9 +138,6 @@ My favorite phrase is: "Nothing is impossible, the same word says it: (im) possi
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a>   
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</a> 
 
 ------
 ### Devops
