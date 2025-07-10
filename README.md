@@ -4,7 +4,7 @@
 
 <div align="center" >
  <a  href="https://github.com/GabrielDeSixto">
-  <img align="center" src="welcome.jpg" width="500px" length="500px" >
+  <img align="center" src="welcome.png" width="500px" length="500px" >
  </a>
 </div>
 
