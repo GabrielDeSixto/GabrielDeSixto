@@ -102,11 +102,6 @@
 </p>
 
 ---
-
-<a href="https://app.daily.dev/gabrielsolanodesixto"><img src="https://api.daily.dev/devcards/v2/HK35CpKz3ot8KGAMBdTpa.png?type=default&r=lrb" width="356" alt="Gabriel Solano De Sixto's Dev Card"/></a>
-
----
-
 <!-- If you want to highlight projects, you can add a section like this:
 
 ## 🏆 Highlighted Projects
