@@ -1,183 +1,117 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=GabrielDeSixto&color=green"><br>
- 
- <h1 align="center" > Hi👋🏼, I'm Gabriel Solano De Sixto👨🏽‍💻 </h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=GabrielDeSixto&color=green">
 
-<div align="center" >
- <a  href="https://github.com/GabrielDeSixto">
-  <img align="center" src="Welcome.png" width="500px" length="500px" >
- </a>
-</div>
+<h1 align="center">Hi 👋🏼, I'm Gabriel Solano De Sixto! 👨🏽‍💻</h1>
+<p align="center">
+  <img src="welcome.png" width="400px">
+</p>
+<p align="center">
+  <b>Developer and Data Scientist passionate about technology and innovation.</b><br>
+  <i>"Nothing is impossible, the word itself says: (im)possible." - Audrey Hepburn</i>
+</p>
 
-<h3 align="center"> I am a passionate developer and Data Scientist. </br>
-My favorite phrase is: "Nothing is impossible, the same word says it: (im) possible. Audrey Hepburn."</h3>
+---
 
-------
+## 🚀 About Me
 
-## 💻 About me:
-<!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning **Generative AI, Machine Learning, Data Analytics, Data Science and Web Develop**
-  
-- 👯 I’m looking to collaborate on **[TensorFlow](https://github.com/tensorflow/tensorflow)**
-  
-- 💬 Ask me about **Node.js, Cloud, UX, Git, JavaScript, Python, React, Data Science, Mongodb**
-- 📫 How to reach me: **gabrielsolanodesixto@gmail.com**
-  
-- ⚡ Fun fact: **I like to draw, play the guitar and learn new languages**
-  
-<!-- 🤔 I’m looking for help with ...-->
-<!--- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- 🌱 Currently learning: **Generative AI, Machine Learning, Data Analytics, Data Science, and Web Development**
+- 👯 Looking to collaborate on: [TensorFlow](https://github.com/tensorflow/tensorflow)
+- 💬 Ask me about: **Node.js, Cloud, UX, Git, JavaScript, Python, React, Data Science, MongoDB**
+- 📫 Contact: **gabrielsolanodesixto@gmail.com**
+- 🎸 Fun fact: I enjoy drawing, playing guitar, and learning new languages
 
-## 🔎 Connect with me:
-<div align="center">
-  <!-- Work Links -->
-  <a href="https://github.com/GabrielDeSixto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-solano-de-sixto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+---
+
+## 🌎 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/GabrielDeSixto"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-solano-de-sixto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:gabrielsolanodesixto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- YT Links -->
-  <a href="https://www.kaggle.com/gabrielsolanodsixto" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-  <!-- Social Links -->
-  <a href="https://www.instagram.com/gabriel_de_sixto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=100069997478418" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.kaggle.com/gabrielsolanodsixto"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabriel_de_sixto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=100069997478418"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</p>
 
-  <!-- OTH Links -->
+---
+
+## 🛠️ Technologies & Tools
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
+**Frontend:**  
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
+
+**Backend:**  
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+**Databases:**  
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
+**UX/UI:**  
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+
+**DevOps:**  
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+
+**Other:**  
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+
+---
+
+## 📈 Stats & Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDeSixto&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeSixto&layout=compact&theme=radical" alt="Most Used Languages" width="400" />
 </div>
 
-------
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GabrielDeSixto&theme=onedark" alt="gabrieldesixto" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielDeSixto&theme=onedark" alt="GitHub Trophies" />
+</p>
 
-## 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielDeSixto&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
-#### Programming languages:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" placeholder="JavaScript">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-</a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-</a>
+---
 
-------
-#### FrontEnd Development
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
- </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
- </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-</a>
+<a href="https://app.daily.dev/gabrielsolanodesixto"><img src="https://api.daily.dev/devcards/v2/HK35CpKz3ot8KGAMBdTpa.png?type=default&r=lrb" width="356" alt="Gabriel Solano De Sixto's Dev Card"/></a>
 
+---
 
+<!-- If you want to highlight projects, you can add a section like this:
 
-------
-### Backend Development
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a>
+## 🏆 Highlighted Projects
 
-------
-### Database 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
+- [Project Name 1](URL): Short description.
+- [Project Name 2](URL): Short description.
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>   
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</a>
-
-
-------
-### UX Development
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-</a>   
-
-------
-### Devops
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-</a>
-
-------
-### Other
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>   
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>     
-
-------
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeSixto&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=GabrielDeSixto&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)      
-------
-
-<a href="https://app.daily.dev/gabrielsolanodesixto"><img src="https://api.daily.dev/devcards/v2/HK35CpKz3ot8KGAMBdTpa.png?type=default&r=lrb" width="356" alt="Gabriel Solano De Sixto's Dev Card"/></a> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDeSixto&show_icons=true&theme=radical) 
-------
-
-
+-->
