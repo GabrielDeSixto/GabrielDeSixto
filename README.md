@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋🏼, I'm Gabriel Solano De Sixto! 👨🏽‍💻</h1>
 <p align="center">
-  <img src="welcome.png" width="400px">
+  <img src="./Welcome.png" width="400px">
 </p>
 <p align="center">
   <b>Developer and Data Scientist passionate about technology and innovation.</b><br>
